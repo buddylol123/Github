@@ -1,5 +1,6 @@
 Nguyen Thanh Loi
 <<<<<<< HEAD
+<<<<<<< HEAD
 1+2=3
 =======
 <<<<<<< HEAD
@@ -29,3 +30,7 @@ A
 =======
 >>>>>>> parent of 48d8eb3... Them a bai toan tru moi
 >>>>>>> tru
+=======
+1+2=3
+1-2=3
+>>>>>>> f82bfd47000740fb5c6118a82537912fed4ce737
